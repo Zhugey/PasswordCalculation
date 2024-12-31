@@ -54,9 +54,11 @@
 
 ## 示例
 
+本项目演示地址：https://zhugey.github.io/PasswordCalculation/PasswordCalculation.html
 1. 输入域名：`example.com`
-2. 输入密码：`mysecurepassword`
+2. 输入密码：`123456`
 3. 生成三个矩阵，选择你需要的密码。
+可以自己心里记住三个矩阵的特定位置组成的密码，这样只需要记住上面输入的密码，哪怕是很简单的123456，这样最后实际要输入网站的密码只有你自己知道。
 
 ## 安全性说明
 
